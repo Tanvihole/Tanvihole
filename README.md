@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tanvi Hole</h1>
 <h3 align="center">Aspiring Software Developer | AI/ML & Backend Enthusiast</h3>
 
-- 🚀About Me:
-- **🤖Interested in Machine Learning, Agentic AI, and Data-driven systems**
-- **💻Passionate about building real-world applications using AI & Web Development**
-- **🌱Currently learning React & Full Stack Development**
-  
+- 🚀About Me
+-**🤖Interested in Machine Learning, Agentic AI, and Data-driven systems**
+-**💻Passionate about building real-world applications using AI & Web Development**
+-**🌱Currently learning React & Full Stack Development**
+
 - LinkedIn: [www.linkedin.com/in/tanvi-hole](www.linkedin.com/in/tanvi-hole)
 
 - GitHub: [https://github.com/Tanvihole](https://github.com/Tanvihole)
@@ -14,8 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/tanvi-hole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tanvi-hole" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/411028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="411028" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanvi hole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvi hole" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
