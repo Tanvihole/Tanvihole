@@ -3,13 +3,13 @@
 
 - 🚀About Me **🤖Interested in Machine Learning, Agentic AI, and Data-driven systems**
 
-- LinkedIn: [www.linkedin.com/in/tanvi-hole](www.linkedin.com/in/tanvi-hole)
+  **💻Passionate about building real-world applications using AI & Web Development**
+
+  **🌱Currently learning React & Full Stack Development**
+  
+-  LinkedIn: [www.linkedin.com/in/tanvi-hole](www.linkedin.com/in/tanvi-hole)
 
 - GitHub: [https://github.com/Tanvihole](https://github.com/Tanvihole)
-
-- 🚀About Me **💻Passionate about building real-world applications using AI & Web Development**
-
-- 🚀About Me **🌱Currently learning React & Full Stack Development**
 
 - 📫 How to reach me [tanvihole56@gmail.com](tanvihole56@gmail.com)
 
