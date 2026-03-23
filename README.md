@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tanvi Hole</h1>
 <h3 align="center">Aspiring Software Developer | AI/ML & Backend Enthusiast</h3>
 
-- 🚀About Me **🤖Interested in Machine Learning, Agentic AI, and Data-driven systems**
+- 🚀About Me
 
-  **💻Passionate about building real-world applications using AI & Web Development**
-
-  **🌱Currently learning React & Full Stack Development**
+- **🤖Interested in Machine Learning, Agentic AI, and Data-driven systems**
+- **💻Passionate about building real-world applications using AI & Web Development**
+- **🌱Currently learning React & Full Stack Development**
   
 -  LinkedIn: [www.linkedin.com/in/tanvi-hole](www.linkedin.com/in/tanvi-hole)
 
